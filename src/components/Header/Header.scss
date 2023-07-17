@@ -1,0 +1,26 @@
+@import "../../globalStyle/variables.scss";
+
+header {
+  width: 100%;
+  background: $primary-white;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  padding: 1rem;
+
+  h1 {
+    font-size: 1rem;
+    color: $primary-blue;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  header {
+    h1 {
+      font-size: 2rem;
+    }
+  }
+}
