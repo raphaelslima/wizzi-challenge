@@ -6,7 +6,7 @@ Teste técnico para a vaga de Desenvolvedor Front-end Júnior.
 
 ### Pelo deploy:
 
-Acessar o link:
+Acessar o link: https://wizzi-challenge.vercel.app/
 
 ### Localmente:
 
